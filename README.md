@@ -1,1 +1,1 @@
-# Segmentation_1
+# MNIST CLASSIFICATION

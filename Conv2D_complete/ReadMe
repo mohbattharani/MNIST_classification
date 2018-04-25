@@ -1,0 +1,4 @@
+This tutorial contain a demo code to train any deep learning model in Keras. 
+
+For sample, classification network on MNIST dataset has been designed and trained using basic callback functions to aid training procedure.
+
